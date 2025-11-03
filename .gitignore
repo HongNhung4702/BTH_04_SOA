@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+product_service/venv/
+
+# Databases
+order_service/db.sqlite3
+product_service/db_products.sqlite3
+
+# OS/Editor
+*.log
+.vscode/
+.DS_Store
